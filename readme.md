@@ -25,10 +25,10 @@ Projekte habe ich viele auf meinem GitHub. Die Interessantesten habe ich schon f
 
 ## 29.5.
 
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Start-Seite 3
-- [ ] Start-Seite 4
+- [ ] Implementation Bild Komponente
+- [ ] Implementation Sticker Komponente
+- [ ] Erstellen globales Layout
+- [ ] Implementation von Animationen
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
