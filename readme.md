@@ -25,18 +25,18 @@ Projekte habe ich viele auf meinem GitHub. Die Interessantesten habe ich schon f
 
 ## 29.5.
 
-- [ ] Implementation Bild Komponente
-- [ ] Implementation Sticker Komponente
-- [ ] Erstellen globales Layout
-- [ ] Implementation von Animationen
+- [X] Implementation Bild Komponente
+- [X] Implementation Sticker Komponente
+- [X] Erstellen globales Layout
+- [X] Implementation von Animationen
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 5.6.
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
+- [X] LinkedIn-Profil erstellen / ausputzen
+- [X] GitHub-Profil professionalisieren (`readme.md`)
 - [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [X] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Ich konnte heute meine accounts einrichten und für die Bewerbung parat machen.
