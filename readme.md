@@ -40,3 +40,9 @@ Projekte habe ich viele auf meinem GitHub. Die Interessantesten habe ich schon f
 - [X] Rückmeldung geben
 
 Ich konnte heute meine accounts einrichten und für die Bewerbung parat machen.
+
+
+## 12.06.
+
+ - [ ] Modernpainter Queries
+ - [ ] Modernpainter Aufräumen
