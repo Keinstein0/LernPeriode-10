@@ -44,5 +44,12 @@ Ich konnte heute meine accounts einrichten und für die Bewerbung parat machen.
 
 ## 12.06.
 
- - [ ] Modernpainter Queries
- - [ ] Modernpainter Aufräumen
+ - [X] Modernpainter Queries
+ - [X] Modernpainter Aufräumen
+
+## 19.06.
+
+- [X] Fixen fill Rectangle
+- [X] Implementierung Bilder Laden
+- [X] Implementierung Bilder Skalieren
+- [X] Implementierung Bilder anzeigen
